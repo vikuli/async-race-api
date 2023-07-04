@@ -1,6 +1,4 @@
-# async-race-api
-Api for Rolling Scopes School task "Async Race".
-
+# Async Race Api
 ## Setup and Running
 
 You can send requests to the address: `https://async-race-api-rhtv.onrender.com`.
